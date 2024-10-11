@@ -2,7 +2,6 @@
 #include <string>
 #include <ctime>
 #include <cstdlib>
-#define S(x) -> (x * x);
 
 
 using namespace std;
